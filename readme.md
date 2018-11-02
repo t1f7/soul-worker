@@ -9,6 +9,12 @@ SoulHack 0.1
 - prevent antidebug (WIP, I have no idea if that works)
 
 
+** How to use **
+
+- Update minhook (I removed binaries)
+- Inject with your favourite injector (ManualMap + ThreadHijack)
+
+
 ** Problems **
 
 - Game crashes after random command execution.
